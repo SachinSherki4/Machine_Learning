@@ -1,0 +1,21 @@
+Name,Age,Department,Salary,City
+Amit,23,Finance,70000,Mumbai
+Rohit,23,Sales,,Mumbai
+Sneha,30,Finance,60000,Bangalore
+Priya,38,Finance,,Bangalore
+Ravi,35,Marketing,55000,Chennai
+Karan,35,Sales, ,Kolkata
+Nisha,27,IT,80000,Mumbai
+Farhan,40,HR,55000,Delhi
+Simran,28,IT,55000,Delhi
+Arjun,40,Finance,50000,Delhi
+Meera,23,IT,55000,Kolkata
+Saurabh,35,Finance,80000,Kolkata
+Pooja,23,IT,70000,Mumbai
+Nikhil,23,Sales,55000,Bangalore
+Ayesha,38,Marketing,55000,Kolkata
+Varun,28,HR,80000,Mumbai
+Kabir,29,Sales,55000,Mumbai
+Tina,25,IT,-,Bangalore
+Rahul,25,Sales, ,Delhi
+Deepa,38,Sales,60000,Mumbai
